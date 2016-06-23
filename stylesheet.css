@@ -3,16 +3,24 @@
 }
 
 div {
-	background-image: url("https://static.wixstatic.com/media/8390a6_d92d5b9255ae471bb44c64bb7502b1ac.jpg/v1/fill/w_1107,h_530,al_c,q_85/8390a6_d92d5b9255ae471bb44c64bb7502b1ac.jpg");
+	background: url("Images/lpBackground.jpg") no-repeat center center fixed; 
+  	background-size: cover;
 	font-size: 25px;
 	font-family: Helvetica;
 	color:#1B3435;
 }
 
-image {
+}
+
+img {
+	margin: auto;
+}
+
+#homepageLogo {
 	height: 95px;
 	width: 405px;
 }
+
 
 h1 {
 	color: #356769;
