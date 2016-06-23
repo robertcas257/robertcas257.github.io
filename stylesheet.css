@@ -1,0 +1,23 @@
+ body {
+    text-align: center;
+}
+
+div {
+	background-image: url("https://static.wixstatic.com/media/8390a6_d92d5b9255ae471bb44c64bb7502b1ac.jpg/v1/fill/w_1107,h_530,al_c,q_85/8390a6_d92d5b9255ae471bb44c64bb7502b1ac.jpg");
+	font-size: 25px;
+	font-family: Helvetica;
+	color:#1B3435;
+}
+
+image {
+	height: 95px;
+	width: 405px;
+}
+
+h1 {
+	color: #356769;
+	font-family: sans-serif;
+	font-size: 46px; 
+}
+
+
